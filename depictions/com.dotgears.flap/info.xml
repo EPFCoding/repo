@@ -1,0 +1,23 @@
+<package>
+	<id>com.dotgears.flap</id>
+	<name>Flappy Bird</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>11</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Flappy Bird is an arcade-style game in which the player controls the bird Faby, which moves persistently to the right.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
